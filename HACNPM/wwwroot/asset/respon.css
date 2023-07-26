@@ -1,0 +1,17 @@
+@media (max-width:768px) {
+    .slick-prev {
+        display : none;
+    }
+
+    .pull-left  {
+        display : none;
+    }
+
+    .slick-arrow {
+        opacity: 0;
+    }
+
+    body {
+        padding : 0px 20px;
+    }
+}
